@@ -1,0 +1,229 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Model.Users.Address, SimsProjekat]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "Novosadskog sajma",
+      "Number": 11,
+      "Apartment": 5,
+      "Floor": 2,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 3
+      },
+      "Id": 1
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "Braće Tatić",
+      "Number": 12,
+      "Apartment": 15,
+      "Floor": 4,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 1
+      },
+      "Id": 2
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "Braće Ribnikar",
+      "Number": 5,
+      "Apartment": 13,
+      "Floor": 3,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 3
+      },
+      "Id": 3
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "el Ulica",
+      "Number": 10,
+      "Apartment": 10,
+      "Floor": 10,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 10
+      },
+      "Id": 4
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "Danila Kisa",
+      "Number": 25,
+      "Apartment": 13,
+      "Floor": 2,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 12
+      },
+      "Id": 5
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "Dugacka",
+      "Number": 10,
+      "Apartment": 10,
+      "Floor": 2,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 13
+      },
+      "Id": 6
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "Djoletova",
+      "Number": 10,
+      "Apartment": 10,
+      "Floor": 1,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 1
+      },
+      "Id": 7
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "Novosadskog sajma",
+      "Number": 33,
+      "Apartment": 2,
+      "Floor": 1,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 9
+      },
+      "Id": 8
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "Novosadskog sajma",
+      "Number": 33,
+      "Apartment": 2,
+      "Floor": 1,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 3
+      },
+      "Id": 9
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "Novosadskog sajma",
+      "Number": 33,
+      "Apartment": 3,
+      "Floor": 2,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 3
+      },
+      "Id": 10
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "Bulevar Oslobodjenja",
+      "Number": 12,
+      "Apartment": 1,
+      "Floor": 3,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 3
+      },
+      "Id": 11
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "Novosadskog sajma",
+      "Number": 33,
+      "Apartment": 2,
+      "Floor": 1,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 3
+      },
+      "Id": 12
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "Ulica",
+      "Number": 2,
+      "Apartment": 3,
+      "Floor": 1,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 14
+      },
+      "Id": 13
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "asdsa",
+      "Number": 1,
+      "Apartment": 2,
+      "Floor": 3,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 15
+      },
+      "Id": 14
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "dsf",
+      "Number": 3,
+      "Apartment": 4,
+      "Floor": 3,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 16
+      },
+      "Id": 15
+    },
+    {
+      "$type": "Model.Users.Address, SimsProjekat",
+      "Street": "asdsadsad",
+      "Number": 2,
+      "Apartment": 3,
+      "Floor": 2,
+      "City": {
+        "$type": "Model.Users.City, SimsProjekat",
+        "Name": null,
+        "State": null,
+        "Id": 17
+      },
+      "Id": 16
+    }
+  ]
+}
